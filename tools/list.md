@@ -14,3 +14,4 @@
 - `sar -n DEV 1` - network statistics
 - `sar -n TCP,ETCP 1` - network statistics
 - `top` - process activity
+- `du -sh` - directory disk usage
